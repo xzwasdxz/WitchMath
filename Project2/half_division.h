@@ -2,6 +2,7 @@
 double* roots(int64_t amount, double l) { //searcing roots by method of division in half
 	double* root = new double[amount];
 	double abs_root_err = 0.001;
+	double Pi = 3.14159265358979323846;
 	for (int64_t k = 0; k < amount; ++k) {
 		double left = Pi * k;
 		double right = Pi * (k + 1);
