@@ -1,12 +1,12 @@
 #pragma once // there's only headers.
 #include<iostream>
-#include<fstream>
 #include<cmath>
 #include<omp.h>
 #include<chrono>
+#include<fstream>
 #include<stdint.h>
-#include<C:\Users\ura\Documents\Visual Studio 2017\Projects\Project2\Project2\half_division.h>
-#include<C:\Users\ura\Documents\Visual Studio 2017\Projects\Project2\Project2\sum.h>
+#include"half_division.h"
+#include"sum.h"
 #include<thread>
-#include<C:\Users\ura\Documents\Visual Studio 2017\Projects\Project2\Project2\threads.h>
+#include"threads.h"
 using namespace std;

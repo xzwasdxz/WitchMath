@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="headers.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
     <ClInclude Include="half_division.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="sum.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="headers.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="threads.h">
